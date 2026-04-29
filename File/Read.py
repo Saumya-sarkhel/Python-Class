@@ -1,4 +1,4 @@
-fp=open("Input.txt","r")
+fp=open("Read.txt","r")
 print(fp.read())    # Read the existing file and prints it
 
 print("File name:",fp.name)     # Print the file name

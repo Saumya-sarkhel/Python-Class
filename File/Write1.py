@@ -1,3 +1,4 @@
+# Write content with user input
 fp=open("write1.txt","w") # In write mode existing file overrides with new content
 choice='y'
 while(choice =='y'):
